@@ -10,3 +10,4 @@ permalink: /support/
 或者通过添加微信:
 
 ![微信](/assets/images/qrcode.jpg)
+    
